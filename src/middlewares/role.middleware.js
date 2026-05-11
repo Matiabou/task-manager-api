@@ -1,4 +1,4 @@
-import { AppError } from '../utils/AppError.js';
+import { AppError } from '../utils/apperror.js';
 
 export const roleMiddleware = (...roles) => {
   return (req, res, next) => {

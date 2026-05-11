@@ -6,7 +6,7 @@ import {
     softDeleteTaskRepository
 } from '../repositories/task.repository.js';
 
-import { AppError } from '../utils/AppError.js';
+import { AppError } from '../utils/apperror.js';
 
 export const createTaskService = async (
   title,
