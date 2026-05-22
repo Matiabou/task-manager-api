@@ -9,10 +9,10 @@ Professional REST API for task management built with Node.js, Express, Prisma, P
 ## 🚀 Live Demo
 
 API:
-https://TU-URL.onrender.com
+https://task-manager-api-o1ko.onrender.com
 
 Swagger Docs:
-https://TU-URL.onrender.com/api-docs
+https://task-manager-api-o1ko.onrender.com/api-docs
 
 ---
 
@@ -121,7 +121,7 @@ JWT_SECRET=your_secret
 Clone repository:
 
 ```bash
-git clone YOUR_REPOSITORY_URL
+git clone https://github.com/Matiabou/task-manager-api.git
 ```
 
 Install dependencies:

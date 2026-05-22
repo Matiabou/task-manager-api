@@ -2,9 +2,17 @@
 
 API REST profesional para gestión de tareas desarrollada con Node.js, Express, Prisma y PostgreSQL. Incluye autenticación JWT, control de acceso por roles (RBAC), validación con Zod y documentación con Swagger.
 
+## 🚀 Live Demo
+
+API:
+https://task-manager-api-o1ko.onrender.com
+
+Swagger Docs:
+https://task-manager-api-o1ko.onrender.com/api-docs
+
 ---
 
-# 🚀 Características
+# ✨ Características
 
 - Autenticación JWT
 - CRUD de tareas
