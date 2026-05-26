@@ -8,6 +8,9 @@ Professional REST API for task management built with Node.js, Express, Prisma, P
 
 ## 🚀 Live Demo
 
+Frontend:
+https://task-manager-frontend-eight-lime.vercel.app
+
 API:
 https://task-manager-api-o1ko.onrender.com
 
@@ -29,6 +32,7 @@ https://task-manager-api-o1ko.onrender.com/api-docs
 - Swagger Documentation
 - Prisma ORM
 - PostgreSQL Database
+- Frontend Integration
 
 ---
 
