@@ -19,6 +19,12 @@ https://task-manager-api-o1ko.onrender.com/api-docs
 
 ---
 
+## 📸 Preview
+
+![Dashboard](./screenshots/dashboard.png)
+
+---
+
 # ✨ Features
 
 - JWT Authentication
@@ -75,6 +81,8 @@ The API uses JWT Bearer Authentication.
 Example:
 
 Authorization: Bearer YOUR_TOKEN
+
+![Login](./screenshots/login.png)
 
 ---
 
@@ -149,6 +157,8 @@ Swagger UI available at:
 ```txt
 /api-docs
 ```
+
+![Swagger](./screenshots/swagger.png)
 
 ---
 
